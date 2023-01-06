@@ -1,5 +1,7 @@
 # Redis PI
 
+![command](./img.png)
+
 ## Running
 
 1. Run `cargo build`
